@@ -44,4 +44,4 @@
 
 Проверка успешности сборки по команде make install отсуществлялась на MacOs и Ubuntu
 
-<p align="center"><img src="img/3dv_affine.png" width="500"/></p>
+<p align="center"><img src="img/3dv_affine.png"/></p>
